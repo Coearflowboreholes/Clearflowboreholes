@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ClearFlow Boreholes | South Africa's Leading Borehole Drilling Company</title>
+    <title>ClearFlow Boreholes | Gauteng Borehole Drilling Experts</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -87,14 +87,13 @@
 
 <header>
     <h1>ClearFlow Boreholes</h1>
-    <p>South Africa's #1 Choice for Borehole Drilling</p>
+    <p>Clear Water. Clear Future.</p>
     <a class="whatsapp-button" href="https://wa.me/27670540472" target="_blank">📱 Get a Free Quote on WhatsApp</a>
 </header>
 
 <nav>
     <a href="#services">Services</a>
     <a href="#why">Why Us</a>
-    <a href="#areas">Areas We Serve</a>
     <a href="#testimonials">Testimonials</a>
     <a href="#contact">Contact</a>
 </nav>
@@ -117,27 +116,10 @@
         <div class="feature-box">✅ Affordable Prices</div>
         <div class="feature-box">✅ Fast Turnaround Time</div>
         <div class="feature-box">✅ Professional Team</div>
-        <div class="feature-box">✅ Nationwide Service</div>
+        <div class="feature-box">✅ Based in Gauteng</div>
         <div class="feature-box">✅ Free Quotes</div>
         <div class="feature-box">✅ Latest Drilling Technology</div>
     </div>
-</section>
-
-<section id="areas">
-    <h2>Areas We Serve</h2>
-    <p>📍 Based in Gauteng but we serve all provinces in South Africa:</p>
-    <ul>
-        <li>Johannesburg</li>
-        <li>Pretoria</li>
-        <li>Mpumalanga</li>
-        <li>Limpopo</li>
-        <li>North West</li>
-        <li>KwaZulu-Natal</li>
-        <li>Free State</li>
-        <li>Eastern Cape</li>
-        <li>Northern Cape</li>
-        <li>Western Cape</li>
-    </ul>
 </section>
 
 <section id="testimonials">
@@ -153,8 +135,8 @@
 <section id="contact">
     <h2>Contact Us</h2>
     <p>📱 WhatsApp / Call: <a href="https://wa.me/27670540472" target="_blank">067 054 0472</a></p>
-    <p>📧 Email: Mthokozisintuthukog@gmail.com</p>
-    <p>📍 Location: Gauteng, South Africa</p>
+    <p>📧 Email: Clearflowboreholes@gmail.com</p>
+    <p>📍 Location: Based in Gauteng</p>
     <a class="cta-button" href="https://wa.me/27670540472" target="_blank">Request a Free Quote Now</a>
 </section>
 
